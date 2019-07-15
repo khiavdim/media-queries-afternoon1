@@ -70,6 +70,9 @@ nav {
   nav {
     background: #202528;
   }
+}
+
+@media (min-width: 994px) {
   .nav-mobile-menu {
     display: none;
   }
